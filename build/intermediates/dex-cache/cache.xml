@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/guomuqi-macbook/Desktop/ftc_app-maste/Team7960Code/build/intermediates/exploded-aar/RobotCore-release/jars/libs/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5a051fb9930d4b0df111f4e71ba2c97136f8d1f7">
+        <dex dex="/Users/guomuqi-macbook/Desktop/ftc_app-maste/Team7960Code/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_fa4cd2347ab76e2a5aef9845aa7fabc4d8c37067.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/guomuqi-macbook/Desktop/ftc_app-maste/Team7960Code/build/intermediates/exploded-aar/WirelessP2p-release/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9403be210676ed196cdcc64c7391b9ae2361c174">
+        <dex dex="/Users/guomuqi-macbook/Desktop/ftc_app-maste/Team7960Code/build/intermediates/pre-dexed/debug/intermediates-exploded-aar-WirelessP2p-release_61ad91ce138663920b77a6a6e3fe95c0def47640.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/guomuqi-macbook/Desktop/ftc_app-maste/Team7960Code/build/intermediates/exploded-aar/RobotCore-release/jars/libs/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d3fb718ef307cfff9ad988d06b98eadc292d1a34">
+        <dex dex="/Users/guomuqi-macbook/Desktop/ftc_app-maste/Team7960Code/build/intermediates/pre-dexed/debug/gson-2.7_337345765baca7a809f92731ebb490741ea3ced9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/guomuqi-macbook/Desktop/ftc_app-maste/Team7960Code/build/intermediates/exploded-aar/Hardware-release/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d30a44d837c8f25360e4190341f43399eea81172">
+        <dex dex="/Users/guomuqi-macbook/Desktop/ftc_app-maste/Team7960Code/build/intermediates/pre-dexed/debug/intermediates-exploded-aar-Hardware-release_2a872e0f701fb1b4691a1a4ce0eaa37e309449af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/guomuqi-macbook/Desktop/ftc_app-maste/Team7960Code/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c01d1e369b78e98b0877c8add281ba7351ecfa04">
+        <dex dex="/Users/guomuqi-macbook/Desktop/ftc_app-maste/Team7960Code/build/intermediates/pre-dexed/debug/instant-run-bootstrap_24e408491e20d01c4aa468f9e4b740ee4defb9ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/guomuqi-macbook/Desktop/ftc_app-maste/Team7960Code/build/intermediates/exploded-aar/ModernRobotics-release/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="01999c87afe3d10ffa06f3efa66f39e61e6aba0c">
+        <dex dex="/Users/guomuqi-macbook/Desktop/ftc_app-maste/Team7960Code/build/intermediates/pre-dexed/debug/intermediates-exploded-aar-ModernRobotics-release_59ff2f6d5342c75ac7edf7077468333b8bcf601b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/guomuqi-macbook/Desktop/ftc_app-maste/Team7960Code/build/intermediates/exploded-aar/Inspection-release/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b3051d2a26a36e5b402fd8aa14ec8a4bea328974">
+        <dex dex="/Users/guomuqi-macbook/Desktop/ftc_app-maste/Team7960Code/build/intermediates/pre-dexed/debug/intermediates-exploded-aar-Inspection-release_054927873c5f04a963ad4ca60bfd1e29c0a96f82.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/guomuqi-macbook/Desktop/ftc_app-maste/Team7960Code/build/intermediates/exploded-aar/Blocks-release/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="442e93c10918df3270cc37f9fcf9e90c43072eea">
+        <dex dex="/Users/guomuqi-macbook/Desktop/ftc_app-maste/Team7960Code/build/intermediates/pre-dexed/debug/intermediates-exploded-aar-Blocks-release_ec7f3f8bd7f72cd385dedf83d7d1f5167c495e5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/guomuqi-macbook/Desktop/ftc_app-maste/Team7960Code/build/intermediates/exploded-aar/Analytics-release/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9dafed45e330aec14abcce05bdb7bbdb2a2d7092">
+        <dex dex="/Users/guomuqi-macbook/Desktop/ftc_app-maste/Team7960Code/build/intermediates/pre-dexed/debug/intermediates-exploded-aar-Analytics-release_8ec655baa7a8c74110ed67fe259e1a7459b8a511.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/guomuqi-macbook/Desktop/ftc_app-maste/Team7960Code/build/intermediates/exploded-aar/RobotCore-release/jars/libs/d2xx.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="84a174a0d6bebc32bf1e7cd4139224f0b05df829">
+        <dex dex="/Users/guomuqi-macbook/Desktop/ftc_app-maste/Team7960Code/build/intermediates/pre-dexed/debug/d2xx_949c942ec14513ff52a172f883a025d4252b7876.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/guomuqi-macbook/Desktop/ftc_app-maste/Team7960Code/build/intermediates/exploded-aar/RobotCore-release/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="dc4ad03580e3f29564476f06b65f06d89704c0a9">
+        <dex dex="/Users/guomuqi-macbook/Desktop/ftc_app-maste/Team7960Code/build/intermediates/pre-dexed/debug/intermediates-exploded-aar-RobotCore-release_44c868f6fc596bfd217714a0ae4b33af5e180c56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/guomuqi-macbook/Desktop/ftc_app-maste/Team7960Code/build/intermediates/exploded-aar/RobotCore-release/jars/libs/Vuforia.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f1dde8a0e6ed1172450c657386da45fd1d7565f4">
+        <dex dex="/Users/guomuqi-macbook/Desktop/ftc_app-maste/Team7960Code/build/intermediates/pre-dexed/debug/Vuforia_ac68a89080a81a7bdf2d2605090ee4f05d7ea12c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/guomuqi-macbook/Desktop/ftc_app-maste/Team7960Code/build/intermediates/exploded-aar/FtcCommon-release/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2204deca0490727b9009dba5cdb2ec515cdbcc63">
+        <dex dex="/Users/guomuqi-macbook/Desktop/ftc_app-maste/Team7960Code/build/intermediates/pre-dexed/debug/intermediates-exploded-aar-FtcCommon-release_117411746c70a83610b883c8fb4cf460a631cd50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/guomuqi-macbook/Desktop/ftc_app-maste/Team7960Code/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7144c77ad21323fef2c7504f194f2f096993263e">
+        <dex dex="/Users/guomuqi-macbook/Desktop/ftc_app-maste/Team7960Code/build/intermediates/pre-dexed/debug/instant-run_a849d6f06d67a1aaaf8e5304a463eb1190c9d88b.jar" />
+    </item>
+
+</items>

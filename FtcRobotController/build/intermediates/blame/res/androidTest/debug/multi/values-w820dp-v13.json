@@ -1,0 +1,170 @@
+[
+    {
+        "outputFile": "/Users/guomuqi-macbook/Desktop/robotic/ftc_app-master/FtcRobotController/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/Users/guomuqi-macbook/Desktop/robotic/ftc_app-master/FtcRobotController/build/intermediates/bundles/debug/res/values-w820dp-v13/values-w820dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 57,
+                        "endOffset": 108
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/boyu_Han/Downloads/ftc_app-master/FtcRobotController/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/Users/boyu_Han/Downloads/ftc_app-master/FtcRobotController/build/intermediates/bundles/debug/res/values-w820dp-v13/values-w820dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 57,
+                        "endOffset": 108
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/guomuqi-macbook/Desktop/ftc_app-master/FtcRobotController/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/Users/guomuqi-macbook/Desktop/ftc_app-master/FtcRobotController/build/intermediates/bundles/debug/res/values-w820dp-v13/values-w820dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 57,
+                        "endOffset": 108
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/boyu_Han/Google Drive/Robotics Club/2016-17_ program/ftc_app-master/FtcRobotController/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/Users/boyu_Han/Google Drive/Robotics Club/2016-17_ program/ftc_app-master/FtcRobotController/build/intermediates/bundles/debug/res/values-w820dp-v13/values-w820dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 57,
+                        "endOffset": 108
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/boyu_Han/Google Drive/Robotics Club/ftc_app-master/FtcRobotController/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/Users/boyu_Han/Google Drive/Robotics Club/ftc_app-master/FtcRobotController/build/intermediates/bundles/debug/res/values-w820dp-v13/values-w820dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 57,
+                        "endOffset": 108
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/guomuqi-macbook/Desktop/ftc_app-maste/FtcRobotController/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/Users/guomuqi-macbook/Desktop/ftc_app-maste/FtcRobotController/build/intermediates/bundles/debug/res/values-w820dp-v13/values-w820dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 57,
+                        "endOffset": 108
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/guomuqi-macbook/Desktop/ftc_app-master-refined/FtcRobotController/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/Users/guomuqi-macbook/Desktop/ftc_app-master-refined/FtcRobotController/build/intermediates/bundles/debug/res/values-w820dp-v13/values-w820dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 57,
+                        "endOffset": 108
+                    }
+                }
+            }
+        ]
+    }
+]

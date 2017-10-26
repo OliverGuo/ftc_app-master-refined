@@ -1,0 +1,198 @@
+[
+    {
+        "merged": "/Users/boyu_Han/Google Drive/Robotics Club/ftc_app-master/FtcRobotController/build/intermediates/res/merged/androidTest/debug/xml/device_filter.xml",
+        "source": "/Users/boyu_Han/Google Drive/Robotics Club/ftc_app-master/FtcRobotController/build/intermediates/bundles/debug/res/xml/device_filter.xml"
+    },
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/ftc_app-maste/FtcRobotController/build/intermediates/res/merged/androidTest/debug/xml/k9usbbot.xml",
+        "source": "/Users/guomuqi-macbook/Desktop/ftc_app-maste/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/xml/k9usbbot.xml"
+    },
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/robotic/ftc_app-master/FtcRobotController/build/intermediates/res/merged/androidTest/debug/xml/pushbot.xml",
+        "source": "/Users/guomuqi-macbook/Desktop/robotic/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/xml/pushbot.xml"
+    },
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/ftc_app-master-refined/FtcRobotController/build/intermediates/res/merged/androidTest/debug/xml/device_filter.xml",
+        "source": "/Users/guomuqi-macbook/Desktop/ftc_app-master-refined/FtcRobotController/build/intermediates/bundles/debug/res/xml/device_filter.xml"
+    },
+    {
+        "merged": "/Users/boyu_Han/Google Drive/Robotics Club/ftc_app-master/FtcRobotController/build/intermediates/res/merged/androidTest/debug/xml/k9usbbot.xml",
+        "source": "/Users/boyu_Han/Google Drive/Robotics Club/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/xml/k9usbbot.xml"
+    },
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/ftc_app-master-refined/FtcRobotController/build/intermediates/res/merged/androidTest/debug/xml/preferences.xml",
+        "source": "/Users/guomuqi-macbook/Desktop/ftc_app-master-refined/FtcRobotController/build/intermediates/bundles/debug/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/robotic/ftc_app-master/FtcRobotController/build/intermediates/res/merged/androidTest/debug/xml/preferences.xml",
+        "source": "/Users/guomuqi-macbook/Desktop/robotic/ftc_app-master/FtcRobotController/build/intermediates/bundles/debug/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/boyu_Han/Downloads/ftc_app-master/FtcRobotController/build/intermediates/res/merged/androidTest/debug/xml/squarebot.xml",
+        "source": "/Users/boyu_Han/Downloads/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/xml/squarebot.xml"
+    },
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/robotic/ftc_app-master/FtcRobotController/build/intermediates/res/merged/androidTest/debug/xml/squarebot.xml",
+        "source": "/Users/guomuqi-macbook/Desktop/robotic/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/xml/squarebot.xml"
+    },
+    {
+        "merged": "/Users/boyu_Han/Google Drive/Robotics Club/2016-17_ program/ftc_app-master/FtcRobotController/build/intermediates/res/merged/androidTest/debug/xml/preferences.xml",
+        "source": "/Users/boyu_Han/Google Drive/Robotics Club/2016-17_ program/ftc_app-master/FtcRobotController/build/intermediates/bundles/debug/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/ftc_app-maste/FtcRobotController/build/intermediates/res/merged/androidTest/debug/xml/preferences.xml",
+        "source": "/Users/guomuqi-macbook/Desktop/ftc_app-maste/FtcRobotController/build/intermediates/bundles/debug/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/boyu_Han/Google Drive/Robotics Club/2016-17_ program/ftc_app-master/FtcRobotController/build/intermediates/res/merged/androidTest/debug/xml/pushbotsens.xml",
+        "source": "/Users/boyu_Han/Google Drive/Robotics Club/2016-17_ program/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/xml/pushbotsens.xml"
+    },
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/ftc_app-master-refined/FtcRobotController/build/intermediates/res/merged/androidTest/debug/xml/squarebot.xml",
+        "source": "/Users/guomuqi-macbook/Desktop/ftc_app-master-refined/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/xml/squarebot.xml"
+    },
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/ftc_app-master/FtcRobotController/build/intermediates/res/merged/androidTest/debug/xml/device_filter.xml",
+        "source": "/Users/guomuqi-macbook/Desktop/ftc_app-master/FtcRobotController/build/intermediates/bundles/debug/res/xml/device_filter.xml"
+    },
+    {
+        "merged": "/Users/boyu_Han/Google Drive/Robotics Club/2016-17_ program/ftc_app-master/FtcRobotController/build/intermediates/res/merged/androidTest/debug/xml/squarebot.xml",
+        "source": "/Users/boyu_Han/Google Drive/Robotics Club/2016-17_ program/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/xml/squarebot.xml"
+    },
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/ftc_app-maste/FtcRobotController/build/intermediates/res/merged/androidTest/debug/xml/squarebot.xml",
+        "source": "/Users/guomuqi-macbook/Desktop/ftc_app-maste/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/xml/squarebot.xml"
+    },
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/ftc_app-master/FtcRobotController/build/intermediates/res/merged/androidTest/debug/xml/squarebot.xml",
+        "source": "/Users/guomuqi-macbook/Desktop/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/xml/squarebot.xml"
+    },
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/ftc_app-master/FtcRobotController/build/intermediates/res/merged/androidTest/debug/xml/k9legacybot.xml",
+        "source": "/Users/guomuqi-macbook/Desktop/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/xml/k9legacybot.xml"
+    },
+    {
+        "merged": "/Users/boyu_Han/Google Drive/Robotics Club/ftc_app-master/FtcRobotController/build/intermediates/res/merged/androidTest/debug/xml/pushbot.xml",
+        "source": "/Users/boyu_Han/Google Drive/Robotics Club/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/xml/pushbot.xml"
+    },
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/ftc_app-master/FtcRobotController/build/intermediates/res/merged/androidTest/debug/xml/pushbot.xml",
+        "source": "/Users/guomuqi-macbook/Desktop/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/xml/pushbot.xml"
+    },
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/ftc_app-maste/FtcRobotController/build/intermediates/res/merged/androidTest/debug/xml/pushbot.xml",
+        "source": "/Users/guomuqi-macbook/Desktop/ftc_app-maste/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/xml/pushbot.xml"
+    },
+    {
+        "merged": "/Users/boyu_Han/Google Drive/Robotics Club/2016-17_ program/ftc_app-master/FtcRobotController/build/intermediates/res/merged/androidTest/debug/xml/pushbot.xml",
+        "source": "/Users/boyu_Han/Google Drive/Robotics Club/2016-17_ program/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/xml/pushbot.xml"
+    },
+    {
+        "merged": "/Users/boyu_Han/Downloads/ftc_app-master/FtcRobotController/build/intermediates/res/merged/androidTest/debug/xml/pushbot.xml",
+        "source": "/Users/boyu_Han/Downloads/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/xml/pushbot.xml"
+    },
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/robotic/ftc_app-master/FtcRobotController/build/intermediates/res/merged/androidTest/debug/xml/k9legacybot.xml",
+        "source": "/Users/guomuqi-macbook/Desktop/robotic/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/xml/k9legacybot.xml"
+    },
+    {
+        "merged": "/Users/boyu_Han/Google Drive/Robotics Club/ftc_app-master/FtcRobotController/build/intermediates/res/merged/androidTest/debug/xml/preferences.xml",
+        "source": "/Users/boyu_Han/Google Drive/Robotics Club/ftc_app-master/FtcRobotController/build/intermediates/bundles/debug/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/boyu_Han/Downloads/ftc_app-master/FtcRobotController/build/intermediates/res/merged/androidTest/debug/xml/k9legacybot.xml",
+        "source": "/Users/boyu_Han/Downloads/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/xml/k9legacybot.xml"
+    },
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/robotic/ftc_app-master/FtcRobotController/build/intermediates/res/merged/androidTest/debug/xml/device_filter.xml",
+        "source": "/Users/guomuqi-macbook/Desktop/robotic/ftc_app-master/FtcRobotController/build/intermediates/bundles/debug/res/xml/device_filter.xml"
+    },
+    {
+        "merged": "/Users/boyu_Han/Google Drive/Robotics Club/ftc_app-master/FtcRobotController/build/intermediates/res/merged/androidTest/debug/xml/pushbotsens.xml",
+        "source": "/Users/boyu_Han/Google Drive/Robotics Club/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/xml/pushbotsens.xml"
+    },
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/ftc_app-master-refined/FtcRobotController/build/intermediates/res/merged/androidTest/debug/xml/k9legacybot.xml",
+        "source": "/Users/guomuqi-macbook/Desktop/ftc_app-master-refined/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/xml/k9legacybot.xml"
+    },
+    {
+        "merged": "/Users/boyu_Han/Downloads/ftc_app-master/FtcRobotController/build/intermediates/res/merged/androidTest/debug/xml/k9usbbot.xml",
+        "source": "/Users/boyu_Han/Downloads/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/xml/k9usbbot.xml"
+    },
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/ftc_app-master/FtcRobotController/build/intermediates/res/merged/androidTest/debug/xml/pushbotsens.xml",
+        "source": "/Users/guomuqi-macbook/Desktop/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/xml/pushbotsens.xml"
+    },
+    {
+        "merged": "/Users/boyu_Han/Google Drive/Robotics Club/ftc_app-master/FtcRobotController/build/intermediates/res/merged/androidTest/debug/xml/squarebot.xml",
+        "source": "/Users/boyu_Han/Google Drive/Robotics Club/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/xml/squarebot.xml"
+    },
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/ftc_app-master/FtcRobotController/build/intermediates/res/merged/androidTest/debug/xml/k9usbbot.xml",
+        "source": "/Users/guomuqi-macbook/Desktop/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/xml/k9usbbot.xml"
+    },
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/robotic/ftc_app-master/FtcRobotController/build/intermediates/res/merged/androidTest/debug/xml/k9usbbot.xml",
+        "source": "/Users/guomuqi-macbook/Desktop/robotic/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/xml/k9usbbot.xml"
+    },
+    {
+        "merged": "/Users/boyu_Han/Google Drive/Robotics Club/2016-17_ program/ftc_app-master/FtcRobotController/build/intermediates/res/merged/androidTest/debug/xml/device_filter.xml",
+        "source": "/Users/boyu_Han/Google Drive/Robotics Club/2016-17_ program/ftc_app-master/FtcRobotController/build/intermediates/bundles/debug/res/xml/device_filter.xml"
+    },
+    {
+        "merged": "/Users/boyu_Han/Downloads/ftc_app-master/FtcRobotController/build/intermediates/res/merged/androidTest/debug/xml/pushbotsens.xml",
+        "source": "/Users/boyu_Han/Downloads/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/xml/pushbotsens.xml"
+    },
+    {
+        "merged": "/Users/boyu_Han/Downloads/ftc_app-master/FtcRobotController/build/intermediates/res/merged/androidTest/debug/xml/preferences.xml",
+        "source": "/Users/boyu_Han/Downloads/ftc_app-master/FtcRobotController/build/intermediates/bundles/debug/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/ftc_app-master-refined/FtcRobotController/build/intermediates/res/merged/androidTest/debug/xml/pushbotsens.xml",
+        "source": "/Users/guomuqi-macbook/Desktop/ftc_app-master-refined/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/xml/pushbotsens.xml"
+    },
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/ftc_app-master-refined/FtcRobotController/build/intermediates/res/merged/androidTest/debug/xml/k9usbbot.xml",
+        "source": "/Users/guomuqi-macbook/Desktop/ftc_app-master-refined/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/xml/k9usbbot.xml"
+    },
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/robotic/ftc_app-master/FtcRobotController/build/intermediates/res/merged/androidTest/debug/xml/pushbotsens.xml",
+        "source": "/Users/guomuqi-macbook/Desktop/robotic/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/xml/pushbotsens.xml"
+    },
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/ftc_app-master/FtcRobotController/build/intermediates/res/merged/androidTest/debug/xml/preferences.xml",
+        "source": "/Users/guomuqi-macbook/Desktop/ftc_app-master/FtcRobotController/build/intermediates/bundles/debug/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/ftc_app-maste/FtcRobotController/build/intermediates/res/merged/androidTest/debug/xml/k9legacybot.xml",
+        "source": "/Users/guomuqi-macbook/Desktop/ftc_app-maste/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/xml/k9legacybot.xml"
+    },
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/ftc_app-master-refined/FtcRobotController/build/intermediates/res/merged/androidTest/debug/xml/pushbot.xml",
+        "source": "/Users/guomuqi-macbook/Desktop/ftc_app-master-refined/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/xml/pushbot.xml"
+    },
+    {
+        "merged": "/Users/boyu_Han/Google Drive/Robotics Club/ftc_app-master/FtcRobotController/build/intermediates/res/merged/androidTest/debug/xml/k9legacybot.xml",
+        "source": "/Users/boyu_Han/Google Drive/Robotics Club/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/xml/k9legacybot.xml"
+    },
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/ftc_app-maste/FtcRobotController/build/intermediates/res/merged/androidTest/debug/xml/pushbotsens.xml",
+        "source": "/Users/guomuqi-macbook/Desktop/ftc_app-maste/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/xml/pushbotsens.xml"
+    },
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/ftc_app-maste/FtcRobotController/build/intermediates/res/merged/androidTest/debug/xml/device_filter.xml",
+        "source": "/Users/guomuqi-macbook/Desktop/ftc_app-maste/FtcRobotController/build/intermediates/bundles/debug/res/xml/device_filter.xml"
+    },
+    {
+        "merged": "/Users/boyu_Han/Google Drive/Robotics Club/2016-17_ program/ftc_app-master/FtcRobotController/build/intermediates/res/merged/androidTest/debug/xml/k9legacybot.xml",
+        "source": "/Users/boyu_Han/Google Drive/Robotics Club/2016-17_ program/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/xml/k9legacybot.xml"
+    },
+    {
+        "merged": "/Users/boyu_Han/Google Drive/Robotics Club/2016-17_ program/ftc_app-master/FtcRobotController/build/intermediates/res/merged/androidTest/debug/xml/k9usbbot.xml",
+        "source": "/Users/boyu_Han/Google Drive/Robotics Club/2016-17_ program/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/xml/k9usbbot.xml"
+    },
+    {
+        "merged": "/Users/boyu_Han/Downloads/ftc_app-master/FtcRobotController/build/intermediates/res/merged/androidTest/debug/xml/device_filter.xml",
+        "source": "/Users/boyu_Han/Downloads/ftc_app-master/FtcRobotController/build/intermediates/bundles/debug/res/xml/device_filter.xml"
+    }
+]

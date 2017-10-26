@@ -1,0 +1,310 @@
+[
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/raw/errormessage.wav",
+        "source": "/Users/guomuqi-macbook/Desktop/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/raw/errormessage.wav"
+    },
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/raw/color_fragment_shader.glsl",
+        "source": "/Users/guomuqi-macbook/Desktop/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/RobotCore-release/res/raw/color_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/ftc_app-maste/FtcRobotController/build/intermediates/res/merged/debug/raw/texture_vertex_shader.glsl",
+        "source": "/Users/guomuqi-macbook/Desktop/ftc_app-maste/FtcRobotController/build/intermediates/exploded-aar/RobotCore-release/res/raw/texture_vertex_shader.glsl"
+    },
+    {
+        "merged": "/Users/boyu_Han/Google Drive/Robotics Club/2016-17_ program/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/raw/chimeconnect.wav",
+        "source": "/Users/boyu_Han/Google Drive/Robotics Club/2016-17_ program/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/raw/chimeconnect.wav"
+    },
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/raw/cube_mesh_vertex_shader.glsl",
+        "source": "/Users/guomuqi-macbook/Desktop/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/RobotCore-release/res/raw/cube_mesh_vertex_shader.glsl"
+    },
+    {
+        "merged": "/Users/boyu_Han/Google Drive/Robotics Club/2016-17_ program/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/raw/texture_vertex_shader.glsl",
+        "source": "/Users/boyu_Han/Google Drive/Robotics Club/2016-17_ program/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/RobotCore-release/res/raw/texture_vertex_shader.glsl"
+    },
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/ftc_app-maste/FtcRobotController/build/intermediates/res/merged/debug/raw/errormessage.wav",
+        "source": "/Users/guomuqi-macbook/Desktop/ftc_app-maste/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/raw/errormessage.wav"
+    },
+    {
+        "merged": "/Users/boyu_Han/Google Drive/Robotics Club/2016-17_ program/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/raw/warningmessage.wav",
+        "source": "/Users/boyu_Han/Google Drive/Robotics Club/2016-17_ program/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/raw/warningmessage.wav"
+    },
+    {
+        "merged": "/Users/boyu_Han/Google Drive/Robotics Club/2016-17_ program/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/raw/texture_fragment_shader.glsl",
+        "source": "/Users/boyu_Han/Google Drive/Robotics Club/2016-17_ program/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/RobotCore-release/res/raw/texture_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/boyu_Han/Google Drive/Robotics Club/2016-17_ program/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/raw/errormessage.wav",
+        "source": "/Users/boyu_Han/Google Drive/Robotics Club/2016-17_ program/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/raw/errormessage.wav"
+    },
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/raw/chimedisconnect.wav",
+        "source": "/Users/guomuqi-macbook/Desktop/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/raw/chimedisconnect.wav"
+    },
+    {
+        "merged": "/Users/boyu_Han/Downloads/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/raw/cube_mesh_vertex_shader.glsl",
+        "source": "/Users/boyu_Han/Downloads/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/RobotCore-release/res/raw/cube_mesh_vertex_shader.glsl"
+    },
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/ftc_app-master-refined/FtcRobotController/build/intermediates/res/merged/debug/raw/cube_mesh_fragment_shader.glsl",
+        "source": "/Users/guomuqi-macbook/Desktop/ftc_app-master-refined/FtcRobotController/build/intermediates/exploded-aar/RobotCore-release/res/raw/cube_mesh_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/ftc_app-master-refined/FtcRobotController/build/intermediates/res/merged/debug/raw/nxtstartupsound.wav",
+        "source": "/Users/guomuqi-macbook/Desktop/ftc_app-master-refined/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/raw/nxtstartupsound.wav"
+    },
+    {
+        "merged": "/Users/boyu_Han/Downloads/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/raw/warningmessage.wav",
+        "source": "/Users/boyu_Han/Downloads/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/raw/warningmessage.wav"
+    },
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/ftc_app-maste/FtcRobotController/build/intermediates/res/merged/debug/raw/chimeconnect.wav",
+        "source": "/Users/guomuqi-macbook/Desktop/ftc_app-maste/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/raw/chimeconnect.wav"
+    },
+    {
+        "merged": "/Users/boyu_Han/Google Drive/Robotics Club/2016-17_ program/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/raw/chimedisconnect.wav",
+        "source": "/Users/boyu_Han/Google Drive/Robotics Club/2016-17_ program/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/raw/chimedisconnect.wav"
+    },
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/robotic/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/raw/texture_vertex_shader.glsl",
+        "source": "/Users/guomuqi-macbook/Desktop/robotic/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/RobotCore-release/res/raw/texture_vertex_shader.glsl"
+    },
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/robotic/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/raw/cube_mesh_vertex_shader.glsl",
+        "source": "/Users/guomuqi-macbook/Desktop/robotic/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/RobotCore-release/res/raw/cube_mesh_vertex_shader.glsl"
+    },
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/ftc_app-maste/FtcRobotController/build/intermediates/res/merged/debug/raw/chimedisconnect.wav",
+        "source": "/Users/guomuqi-macbook/Desktop/ftc_app-maste/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/raw/chimedisconnect.wav"
+    },
+    {
+        "merged": "/Users/boyu_Han/Google Drive/Robotics Club/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/raw/chimedisconnect.wav",
+        "source": "/Users/boyu_Han/Google Drive/Robotics Club/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/raw/chimedisconnect.wav"
+    },
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/robotic/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/raw/warningmessage.wav",
+        "source": "/Users/guomuqi-macbook/Desktop/robotic/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/raw/warningmessage.wav"
+    },
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/ftc_app-maste/FtcRobotController/build/intermediates/res/merged/debug/raw/cube_mesh_fragment_shader.glsl",
+        "source": "/Users/guomuqi-macbook/Desktop/ftc_app-maste/FtcRobotController/build/intermediates/exploded-aar/RobotCore-release/res/raw/cube_mesh_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/raw/cube_mesh_fragment_shader.glsl",
+        "source": "/Users/guomuqi-macbook/Desktop/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/RobotCore-release/res/raw/cube_mesh_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/boyu_Han/Google Drive/Robotics Club/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/raw/color_fragment_shader.glsl",
+        "source": "/Users/boyu_Han/Google Drive/Robotics Club/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/RobotCore-release/res/raw/color_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/robotic/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/raw/color_fragment_shader.glsl",
+        "source": "/Users/guomuqi-macbook/Desktop/robotic/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/RobotCore-release/res/raw/color_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/raw/warningmessage.wav",
+        "source": "/Users/guomuqi-macbook/Desktop/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/raw/warningmessage.wav"
+    },
+    {
+        "merged": "/Users/boyu_Han/Google Drive/Robotics Club/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/raw/cube_mesh_vertex_shader.glsl",
+        "source": "/Users/boyu_Han/Google Drive/Robotics Club/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/RobotCore-release/res/raw/cube_mesh_vertex_shader.glsl"
+    },
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/ftc_app-master-refined/FtcRobotController/build/intermediates/res/merged/debug/raw/warningmessage.wav",
+        "source": "/Users/guomuqi-macbook/Desktop/ftc_app-master-refined/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/raw/warningmessage.wav"
+    },
+    {
+        "merged": "/Users/boyu_Han/Google Drive/Robotics Club/2016-17_ program/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/raw/cube_mesh_fragment_shader.glsl",
+        "source": "/Users/boyu_Han/Google Drive/Robotics Club/2016-17_ program/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/RobotCore-release/res/raw/cube_mesh_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/raw/chimeconnect.wav",
+        "source": "/Users/guomuqi-macbook/Desktop/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/raw/chimeconnect.wav"
+    },
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/ftc_app-maste/FtcRobotController/build/intermediates/res/merged/debug/raw/texture_fragment_shader.glsl",
+        "source": "/Users/guomuqi-macbook/Desktop/ftc_app-maste/FtcRobotController/build/intermediates/exploded-aar/RobotCore-release/res/raw/texture_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/raw/nxtstartupsound.wav",
+        "source": "/Users/guomuqi-macbook/Desktop/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/raw/nxtstartupsound.wav"
+    },
+    {
+        "merged": "/Users/boyu_Han/Downloads/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/raw/texture_vertex_shader.glsl",
+        "source": "/Users/boyu_Han/Downloads/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/RobotCore-release/res/raw/texture_vertex_shader.glsl"
+    },
+    {
+        "merged": "/Users/boyu_Han/Downloads/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/raw/chimedisconnect.wav",
+        "source": "/Users/boyu_Han/Downloads/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/raw/chimedisconnect.wav"
+    },
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/robotic/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/raw/errormessage.wav",
+        "source": "/Users/guomuqi-macbook/Desktop/robotic/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/raw/errormessage.wav"
+    },
+    {
+        "merged": "/Users/boyu_Han/Google Drive/Robotics Club/2016-17_ program/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/raw/color_fragment_shader.glsl",
+        "source": "/Users/boyu_Han/Google Drive/Robotics Club/2016-17_ program/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/RobotCore-release/res/raw/color_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/ftc_app-master-refined/FtcRobotController/build/intermediates/res/merged/debug/raw/cube_mesh_vertex_shader.glsl",
+        "source": "/Users/guomuqi-macbook/Desktop/ftc_app-master-refined/FtcRobotController/build/intermediates/exploded-aar/RobotCore-release/res/raw/cube_mesh_vertex_shader.glsl"
+    },
+    {
+        "merged": "/Users/boyu_Han/Google Drive/Robotics Club/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/raw/errormessage.wav",
+        "source": "/Users/boyu_Han/Google Drive/Robotics Club/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/raw/errormessage.wav"
+    },
+    {
+        "merged": "/Users/boyu_Han/Google Drive/Robotics Club/2016-17_ program/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/raw/nxtstartupsound.wav",
+        "source": "/Users/boyu_Han/Google Drive/Robotics Club/2016-17_ program/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/raw/nxtstartupsound.wav"
+    },
+    {
+        "merged": "/Users/boyu_Han/Google Drive/Robotics Club/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/raw/texture_vertex_shader.glsl",
+        "source": "/Users/boyu_Han/Google Drive/Robotics Club/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/RobotCore-release/res/raw/texture_vertex_shader.glsl"
+    },
+    {
+        "merged": "/Users/boyu_Han/Downloads/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/raw/texture_fragment_shader.glsl",
+        "source": "/Users/boyu_Han/Downloads/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/RobotCore-release/res/raw/texture_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/raw/texture_fragment_shader.glsl",
+        "source": "/Users/guomuqi-macbook/Desktop/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/RobotCore-release/res/raw/texture_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/ftc_app-master-refined/FtcRobotController/build/intermediates/res/merged/debug/raw/chimeconnect.wav",
+        "source": "/Users/guomuqi-macbook/Desktop/ftc_app-master-refined/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/raw/chimeconnect.wav"
+    },
+    {
+        "merged": "/Users/boyu_Han/Downloads/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/raw/chimeconnect.wav",
+        "source": "/Users/boyu_Han/Downloads/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/raw/chimeconnect.wav"
+    },
+    {
+        "merged": "/Users/boyu_Han/Google Drive/Robotics Club/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/raw/nxtstartupsound.wav",
+        "source": "/Users/boyu_Han/Google Drive/Robotics Club/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/raw/nxtstartupsound.wav"
+    },
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/robotic/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/raw/cube_mesh_fragment_shader.glsl",
+        "source": "/Users/guomuqi-macbook/Desktop/robotic/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/RobotCore-release/res/raw/cube_mesh_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/ftc_app-maste/FtcRobotController/build/intermediates/res/merged/debug/raw/simple_vertex_shader.glsl",
+        "source": "/Users/guomuqi-macbook/Desktop/ftc_app-maste/FtcRobotController/build/intermediates/exploded-aar/RobotCore-release/res/raw/simple_vertex_shader.glsl"
+    },
+    {
+        "merged": "/Users/boyu_Han/Downloads/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/raw/cube_mesh_fragment_shader.glsl",
+        "source": "/Users/boyu_Han/Downloads/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/RobotCore-release/res/raw/cube_mesh_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/boyu_Han/Google Drive/Robotics Club/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/raw/cube_mesh_fragment_shader.glsl",
+        "source": "/Users/boyu_Han/Google Drive/Robotics Club/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/RobotCore-release/res/raw/cube_mesh_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/boyu_Han/Downloads/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/raw/color_fragment_shader.glsl",
+        "source": "/Users/boyu_Han/Downloads/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/RobotCore-release/res/raw/color_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/boyu_Han/Google Drive/Robotics Club/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/raw/chimeconnect.wav",
+        "source": "/Users/boyu_Han/Google Drive/Robotics Club/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/raw/chimeconnect.wav"
+    },
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/ftc_app-maste/FtcRobotController/build/intermediates/res/merged/debug/raw/color_fragment_shader.glsl",
+        "source": "/Users/guomuqi-macbook/Desktop/ftc_app-maste/FtcRobotController/build/intermediates/exploded-aar/RobotCore-release/res/raw/color_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/robotic/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/raw/chimedisconnect.wav",
+        "source": "/Users/guomuqi-macbook/Desktop/robotic/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/raw/chimedisconnect.wav"
+    },
+    {
+        "merged": "/Users/boyu_Han/Google Drive/Robotics Club/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/raw/simple_vertex_shader.glsl",
+        "source": "/Users/boyu_Han/Google Drive/Robotics Club/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/RobotCore-release/res/raw/simple_vertex_shader.glsl"
+    },
+    {
+        "merged": "/Users/boyu_Han/Downloads/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/raw/errormessage.wav",
+        "source": "/Users/boyu_Han/Downloads/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/raw/errormessage.wav"
+    },
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/ftc_app-master-refined/FtcRobotController/build/intermediates/res/merged/debug/raw/errormessage.wav",
+        "source": "/Users/guomuqi-macbook/Desktop/ftc_app-master-refined/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/raw/errormessage.wav"
+    },
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/robotic/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/raw/texture_fragment_shader.glsl",
+        "source": "/Users/guomuqi-macbook/Desktop/robotic/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/RobotCore-release/res/raw/texture_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/boyu_Han/Downloads/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/raw/nxtstartupsound.wav",
+        "source": "/Users/boyu_Han/Downloads/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/raw/nxtstartupsound.wav"
+    },
+    {
+        "merged": "/Users/boyu_Han/Google Drive/Robotics Club/2016-17_ program/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/raw/cube_mesh_vertex_shader.glsl",
+        "source": "/Users/boyu_Han/Google Drive/Robotics Club/2016-17_ program/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/RobotCore-release/res/raw/cube_mesh_vertex_shader.glsl"
+    },
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/raw/texture_vertex_shader.glsl",
+        "source": "/Users/guomuqi-macbook/Desktop/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/RobotCore-release/res/raw/texture_vertex_shader.glsl"
+    },
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/raw/simple_vertex_shader.glsl",
+        "source": "/Users/guomuqi-macbook/Desktop/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/RobotCore-release/res/raw/simple_vertex_shader.glsl"
+    },
+    {
+        "merged": "/Users/boyu_Han/Google Drive/Robotics Club/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/raw/warningmessage.wav",
+        "source": "/Users/boyu_Han/Google Drive/Robotics Club/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/raw/warningmessage.wav"
+    },
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/ftc_app-maste/FtcRobotController/build/intermediates/res/merged/debug/raw/cube_mesh_vertex_shader.glsl",
+        "source": "/Users/guomuqi-macbook/Desktop/ftc_app-maste/FtcRobotController/build/intermediates/exploded-aar/RobotCore-release/res/raw/cube_mesh_vertex_shader.glsl"
+    },
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/robotic/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/raw/chimeconnect.wav",
+        "source": "/Users/guomuqi-macbook/Desktop/robotic/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/raw/chimeconnect.wav"
+    },
+    {
+        "merged": "/Users/boyu_Han/Downloads/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/raw/simple_vertex_shader.glsl",
+        "source": "/Users/boyu_Han/Downloads/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/RobotCore-release/res/raw/simple_vertex_shader.glsl"
+    },
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/ftc_app-maste/FtcRobotController/build/intermediates/res/merged/debug/raw/warningmessage.wav",
+        "source": "/Users/guomuqi-macbook/Desktop/ftc_app-maste/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/raw/warningmessage.wav"
+    },
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/ftc_app-master-refined/FtcRobotController/build/intermediates/res/merged/debug/raw/texture_vertex_shader.glsl",
+        "source": "/Users/guomuqi-macbook/Desktop/ftc_app-master-refined/FtcRobotController/build/intermediates/exploded-aar/RobotCore-release/res/raw/texture_vertex_shader.glsl"
+    },
+    {
+        "merged": "/Users/boyu_Han/Google Drive/Robotics Club/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/raw/texture_fragment_shader.glsl",
+        "source": "/Users/boyu_Han/Google Drive/Robotics Club/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/RobotCore-release/res/raw/texture_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/boyu_Han/Google Drive/Robotics Club/2016-17_ program/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/raw/simple_vertex_shader.glsl",
+        "source": "/Users/boyu_Han/Google Drive/Robotics Club/2016-17_ program/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/RobotCore-release/res/raw/simple_vertex_shader.glsl"
+    },
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/robotic/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/raw/nxtstartupsound.wav",
+        "source": "/Users/guomuqi-macbook/Desktop/robotic/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/raw/nxtstartupsound.wav"
+    },
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/ftc_app-master-refined/FtcRobotController/build/intermediates/res/merged/debug/raw/simple_vertex_shader.glsl",
+        "source": "/Users/guomuqi-macbook/Desktop/ftc_app-master-refined/FtcRobotController/build/intermediates/exploded-aar/RobotCore-release/res/raw/simple_vertex_shader.glsl"
+    },
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/ftc_app-master-refined/FtcRobotController/build/intermediates/res/merged/debug/raw/color_fragment_shader.glsl",
+        "source": "/Users/guomuqi-macbook/Desktop/ftc_app-master-refined/FtcRobotController/build/intermediates/exploded-aar/RobotCore-release/res/raw/color_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/ftc_app-master-refined/FtcRobotController/build/intermediates/res/merged/debug/raw/chimedisconnect.wav",
+        "source": "/Users/guomuqi-macbook/Desktop/ftc_app-master-refined/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/raw/chimedisconnect.wav"
+    },
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/robotic/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/raw/simple_vertex_shader.glsl",
+        "source": "/Users/guomuqi-macbook/Desktop/robotic/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/RobotCore-release/res/raw/simple_vertex_shader.glsl"
+    },
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/ftc_app-maste/FtcRobotController/build/intermediates/res/merged/debug/raw/nxtstartupsound.wav",
+        "source": "/Users/guomuqi-macbook/Desktop/ftc_app-maste/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/raw/nxtstartupsound.wav"
+    },
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/ftc_app-master-refined/FtcRobotController/build/intermediates/res/merged/debug/raw/texture_fragment_shader.glsl",
+        "source": "/Users/guomuqi-macbook/Desktop/ftc_app-master-refined/FtcRobotController/build/intermediates/exploded-aar/RobotCore-release/res/raw/texture_fragment_shader.glsl"
+    }
+]

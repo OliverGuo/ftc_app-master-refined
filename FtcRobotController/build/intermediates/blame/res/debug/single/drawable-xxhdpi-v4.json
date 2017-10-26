@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/robotic/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_launcher.png",
+        "source": "/Users/guomuqi-macbook/Desktop/robotic/ftc_app-master/FtcRobotController/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/ftc_app-master-refined/FtcRobotController/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_launcher.png",
+        "source": "/Users/guomuqi-macbook/Desktop/ftc_app-master-refined/FtcRobotController/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_launcher.png",
+        "source": "/Users/guomuqi-macbook/Desktop/ftc_app-master/FtcRobotController/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/boyu_Han/Google Drive/Robotics Club/2016-17_ program/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_launcher.png",
+        "source": "/Users/boyu_Han/Google Drive/Robotics Club/2016-17_ program/ftc_app-master/FtcRobotController/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/boyu_Han/Downloads/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_launcher.png",
+        "source": "/Users/boyu_Han/Downloads/ftc_app-master/FtcRobotController/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/boyu_Han/Google Drive/Robotics Club/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_launcher.png",
+        "source": "/Users/boyu_Han/Google Drive/Robotics Club/ftc_app-master/FtcRobotController/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/ftc_app-maste/FtcRobotController/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_launcher.png",
+        "source": "/Users/guomuqi-macbook/Desktop/ftc_app-maste/FtcRobotController/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    }
+]

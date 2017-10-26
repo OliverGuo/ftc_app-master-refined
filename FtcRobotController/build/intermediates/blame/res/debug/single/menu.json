@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "/Users/boyu_Han/Downloads/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/menu/main_menu.xml",
+        "source": "/Users/boyu_Han/Downloads/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/Inspection-release/res/menu/main_menu.xml"
+    },
+    {
+        "merged": "/Users/boyu_Han/Downloads/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/menu/ftc_robot_controller.xml",
+        "source": "/Users/boyu_Han/Downloads/ftc_app-master/FtcRobotController/src/main/res/menu/ftc_robot_controller.xml"
+    },
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/menu/menu_server.xml",
+        "source": "/Users/guomuqi-macbook/Desktop/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/res/menu/menu_server.xml"
+    },
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/robotic/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/menu/ftc_robot_controller.xml",
+        "source": "/Users/guomuqi-macbook/Desktop/robotic/ftc_app-master/FtcRobotController/src/main/res/menu/ftc_robot_controller.xml"
+    },
+    {
+        "merged": "/Users/boyu_Han/Google Drive/Robotics Club/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/menu/menu_server.xml",
+        "source": "/Users/boyu_Han/Google Drive/Robotics Club/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/res/menu/menu_server.xml"
+    },
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/ftc_app-maste/FtcRobotController/build/intermediates/res/merged/debug/menu/main_menu.xml",
+        "source": "/Users/guomuqi-macbook/Desktop/ftc_app-maste/FtcRobotController/build/intermediates/exploded-aar/Inspection-release/res/menu/main_menu.xml"
+    },
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/menu/main_menu.xml",
+        "source": "/Users/guomuqi-macbook/Desktop/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/Inspection-release/res/menu/main_menu.xml"
+    },
+    {
+        "merged": "/Users/boyu_Han/Google Drive/Robotics Club/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/menu/ftc_robot_controller.xml",
+        "source": "/Users/boyu_Han/Google Drive/Robotics Club/ftc_app-master/FtcRobotController/src/main/res/menu/ftc_robot_controller.xml"
+    },
+    {
+        "merged": "/Users/boyu_Han/Google Drive/Robotics Club/2016-17_ program/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/menu/main_menu.xml",
+        "source": "/Users/boyu_Han/Google Drive/Robotics Club/2016-17_ program/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/Inspection-release/res/menu/main_menu.xml"
+    },
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/robotic/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/menu/menu_server.xml",
+        "source": "/Users/guomuqi-macbook/Desktop/robotic/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/res/menu/menu_server.xml"
+    },
+    {
+        "merged": "/Users/boyu_Han/Downloads/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/menu/menu_server.xml",
+        "source": "/Users/boyu_Han/Downloads/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/res/menu/menu_server.xml"
+    },
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/ftc_app-master-refined/FtcRobotController/build/intermediates/res/merged/debug/menu/menu_server.xml",
+        "source": "/Users/guomuqi-macbook/Desktop/ftc_app-master-refined/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/res/menu/menu_server.xml"
+    },
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/ftc_app-maste/FtcRobotController/build/intermediates/res/merged/debug/menu/ftc_robot_controller.xml",
+        "source": "/Users/guomuqi-macbook/Desktop/ftc_app-maste/FtcRobotController/src/main/res/menu/ftc_robot_controller.xml"
+    },
+    {
+        "merged": "/Users/boyu_Han/Google Drive/Robotics Club/2016-17_ program/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/menu/menu_server.xml",
+        "source": "/Users/boyu_Han/Google Drive/Robotics Club/2016-17_ program/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/res/menu/menu_server.xml"
+    },
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/ftc_app-master-refined/FtcRobotController/build/intermediates/res/merged/debug/menu/ftc_robot_controller.xml",
+        "source": "/Users/guomuqi-macbook/Desktop/ftc_app-master-refined/FtcRobotController/src/main/res/menu/ftc_robot_controller.xml"
+    },
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/robotic/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/menu/main_menu.xml",
+        "source": "/Users/guomuqi-macbook/Desktop/robotic/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/Inspection-release/res/menu/main_menu.xml"
+    },
+    {
+        "merged": "/Users/boyu_Han/Google Drive/Robotics Club/2016-17_ program/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/menu/ftc_robot_controller.xml",
+        "source": "/Users/boyu_Han/Google Drive/Robotics Club/2016-17_ program/ftc_app-master/FtcRobotController/src/main/res/menu/ftc_robot_controller.xml"
+    },
+    {
+        "merged": "/Users/boyu_Han/Google Drive/Robotics Club/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/menu/main_menu.xml",
+        "source": "/Users/boyu_Han/Google Drive/Robotics Club/ftc_app-master/FtcRobotController/build/intermediates/exploded-aar/Inspection-release/res/menu/main_menu.xml"
+    },
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/ftc_app-master-refined/FtcRobotController/build/intermediates/res/merged/debug/menu/main_menu.xml",
+        "source": "/Users/guomuqi-macbook/Desktop/ftc_app-master-refined/FtcRobotController/build/intermediates/exploded-aar/Inspection-release/res/menu/main_menu.xml"
+    },
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/ftc_app-maste/FtcRobotController/build/intermediates/res/merged/debug/menu/menu_server.xml",
+        "source": "/Users/guomuqi-macbook/Desktop/ftc_app-maste/FtcRobotController/build/intermediates/exploded-aar/Blocks-release/res/menu/menu_server.xml"
+    },
+    {
+        "merged": "/Users/guomuqi-macbook/Desktop/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/menu/ftc_robot_controller.xml",
+        "source": "/Users/guomuqi-macbook/Desktop/ftc_app-master/FtcRobotController/src/main/res/menu/ftc_robot_controller.xml"
+    }
+]

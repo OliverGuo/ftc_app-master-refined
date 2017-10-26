@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FtcRobotController/FtcRobotController.iml" filepath="$PROJECT_DIR$/FtcRobotController/FtcRobotController.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Team7960Code/Team7960Code.iml" filepath="$PROJECT_DIR$/Team7960Code/Team7960Code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ftc_app-master-refined.iml" filepath="$PROJECT_DIR$/ftc_app-master-refined.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,184 @@
+[
+    {
+        "outputFile": "/Users/guomuqi-macbook/Desktop/ftc_app-master/FtcRobotController/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 201
+                },
+                "from": {
+                    "file": "/Users/guomuqi-macbook/Desktop/ftc_app-master/FtcRobotController/src/main/res/values-v14/styles.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 1869,
+                        "endLine": 42,
+                        "endColumn": 12,
+                        "endOffset": 2015
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/guomuqi-macbook/Desktop/ftc_app-master-refined/FtcRobotController/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 201
+                },
+                "from": {
+                    "file": "/Users/guomuqi-macbook/Desktop/ftc_app-master-refined/FtcRobotController/src/main/res/values-v14/styles.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 1869,
+                        "endLine": 42,
+                        "endColumn": 12,
+                        "endOffset": 2015
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/guomuqi-macbook/Desktop/ftc_app-maste/FtcRobotController/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 201
+                },
+                "from": {
+                    "file": "/Users/guomuqi-macbook/Desktop/ftc_app-maste/FtcRobotController/src/main/res/values-v14/styles.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 1869,
+                        "endLine": 42,
+                        "endColumn": 12,
+                        "endOffset": 2015
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/guomuqi-macbook/Desktop/robotic/ftc_app-master/FtcRobotController/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 201
+                },
+                "from": {
+                    "file": "/Users/guomuqi-macbook/Desktop/robotic/ftc_app-master/FtcRobotController/src/main/res/values-v14/styles.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 1869,
+                        "endLine": 42,
+                        "endColumn": 12,
+                        "endOffset": 2015
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/boyu_Han/Downloads/ftc_app-master/FtcRobotController/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 201
+                },
+                "from": {
+                    "file": "/Users/boyu_Han/Downloads/ftc_app-master/FtcRobotController/src/main/res/values-v14/styles.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 1869,
+                        "endLine": 42,
+                        "endColumn": 12,
+                        "endOffset": 2015
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/boyu_Han/Google Drive/Robotics Club/ftc_app-master/FtcRobotController/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 201
+                },
+                "from": {
+                    "file": "/Users/boyu_Han/Google Drive/Robotics Club/ftc_app-master/FtcRobotController/src/main/res/values-v14/styles.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 1869,
+                        "endLine": 42,
+                        "endColumn": 12,
+                        "endOffset": 2015
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/boyu_Han/Google Drive/Robotics Club/2016-17_ program/ftc_app-master/FtcRobotController/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 201
+                },
+                "from": {
+                    "file": "/Users/boyu_Han/Google Drive/Robotics Club/2016-17_ program/ftc_app-master/FtcRobotController/src/main/res/values-v14/styles.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 1869,
+                        "endLine": 42,
+                        "endColumn": 12,
+                        "endOffset": 2015
+                    }
+                }
+            }
+        ]
+    }
+]
